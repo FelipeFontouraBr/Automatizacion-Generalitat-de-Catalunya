@@ -13,6 +13,7 @@ npm index.js
 ## :computer: Technologies
 
 - JavaScript;
+- Node;
 - Npm;
 
 ## :earth_americas: Website
