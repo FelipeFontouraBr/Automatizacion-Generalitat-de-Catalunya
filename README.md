@@ -2,7 +2,7 @@
     Automatización Generalitat de Catalunya
 </h1>
 
- ## About
+ ## :page_with_curl: About
  This application is a technical exercise to improve my learning and participate in a technical interview.
  It is an automated search.
 
