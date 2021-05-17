@@ -2,20 +2,20 @@
     Automatización Generalitat de Catalunya
 </h1>
 
- ## :page_with_curl: About
+ ## :pencil: About
  This application is a technical exercise to improve my learning and participate in a technical interview.
  It is an automated search.
 
- ## Run
+ ## :crossed_flags: Run
 
 npm index.js
 
-## Technologies
+## :computer: Technologies
 
 - JavaScript;
 - Npm;
 
-## Website
+## :earth_americas: Website
 
 - https://web.gencat.cat/ca/inici
 
